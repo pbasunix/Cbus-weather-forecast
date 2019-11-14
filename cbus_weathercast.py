@@ -21,4 +21,4 @@ weekly_cast = pd.DataFrame({
 
 print(weekly_cast)
 
-weekly_forecast.to_csv('cbus_cast.csv')
+weekly_cast.to_csv('cbus_cast.csv')
