@@ -20,3 +20,5 @@ weekly_cast = pd.DataFrame({
 })
 
 print(weekly_cast)
+
+weekly_forecast.to_csv('cbus_cast.csv')
